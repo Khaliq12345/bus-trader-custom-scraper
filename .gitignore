@@ -1,0 +1,6 @@
+config.py
+poetry.lock
+pyproject.toml
+*.ipynb
+.venv
+error_logs
