@@ -4,3 +4,4 @@ pyproject.toml
 *.ipynb
 .venv
 error_logs
+__pycache__
